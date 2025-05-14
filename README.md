@@ -20,3 +20,5 @@ When evaluated on real-world emergency cases, an advanced LLM with enhanced reas
 
 Keywords: Artificial Intelligence; Natural Language Processing; Decision Support Systems, Clinical; Emergency Medicine; Internal Medicine
 
+Link to published paper: https://www.sciencedirect.com/science/article/pii/S0010482525007024?dgcid=coauthor
+
